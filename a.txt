@@ -1,7 +1,5 @@
-brrr
-print("abc")
-
-brr
 
 lolexxd("abc")
 
+c=a+b;
+print(c)
