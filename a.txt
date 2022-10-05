@@ -3,5 +3,5 @@ print("abc")
 
 brr
 
-pprint("abc")
+lolexxd("abc")
 
