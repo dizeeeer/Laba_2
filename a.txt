@@ -1,7 +1,2 @@
-brrr
-print("abc")
-
-brr
-
-pprint("abc")
-
+c=a+b;
+print(c)
